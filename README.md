@@ -2,7 +2,7 @@
 This repository contains codes for solving partial differential equations using Finite Difference Methods in MATLAB.
 
 The codes developed in this repository are credited to all the members of the course NMPDE - Numerical Methods for 
-Partial Differential Equations (MATH F422 - BITS Pilani, 2018) under Prof. D. Palla, Dept. of Mathematics, BITS-Pilani, K. K. Birla Goa campus.
+Partial Differential Equations (2018) under Prof. D. Palla, Dept. of Mathematics, BITS-Pilani, K. K. Birla Goa campus.
 
 This course dealt with solving PDEs numerically using Finite Difference schemes after verifying their stability and convergence 
 theoretically.
