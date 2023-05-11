@@ -11,7 +11,7 @@ The schemes covered in this repository are as follows:
 Forward in Time and Central in Space(FTCS), Backward in Time and Central in Space(BTCS), Crank Nicholson(CNS),
 ADI for two dimensional parabolic problems, Direct and iterative methods (Gauss Siedel, Jacobi, SOR) for elliptic PDEs.
 
-Following schemes for hyperbolic PDEs were developed under the guidance of Prof. Gowda, TIFR-CAM, Bangalore for 1D wave equations and
+Following schemes for hyperbolic PDEs were developed under the guidance of Prof. V. Gowda, TIFR-CAM, Bangalore for 1D wave equations and
 Burgers equation:
 Lax Friedrichs Scheme, Upwind Scheme, Leapfrog Scheme, CNS Scheme, Lax Wendroff Scheme, Gudunov Scheme. 
 
