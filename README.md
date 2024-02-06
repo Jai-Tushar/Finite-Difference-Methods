@@ -9,7 +9,7 @@ theoretically.
 
 The schemes covered in this repository are as follows:
 Forward in Time and Central in Space(FTCS), Backward in Time and Central in Space(BTCS), Crank Nicholson(CNS),
-ADI scheme for dimensional parabolic problems, Direct and iterative methods (Gauss Siedel, Jacobi, SOR) for elliptic PDEs.
+ADI scheme for parabolic problems, Direct and iterative methods (Gauss Siedel, Jacobi, SOR) for elliptic PDEs.
 
 Following schemes for hyperbolic PDEs were developed under the guidance of Prof. V. Gowda, TIFR-CAM, Bangalore for 1D wave equations and
 Burgers equation:
